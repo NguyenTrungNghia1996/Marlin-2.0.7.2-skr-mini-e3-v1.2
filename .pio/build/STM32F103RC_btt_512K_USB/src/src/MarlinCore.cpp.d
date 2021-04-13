@@ -151,7 +151,7 @@
  Marlin\src\module/stepper/../../feature/../lcd/../sd/SdInfo.h \
  Marlin\src\module/stepper/../../feature/../lcd/../sd/SdFatStructs.h \
  Marlin\src\module/stepper/../../feature/../lcd/../feature/pause.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\nozzle.h \
+ Marlin\src\module/stepper/../../feature/../lcd/../feature/../libs/nozzle.h \
  Marlin\src\module/stepper/../../feature/../lcd/lcdprint.h \
  Marlin\src\module/stepper/../../feature/../lcd/fontutils.h \
  Marlin\src\module/stepper/../../feature/../lcd/dogm/u8g_fontutf8.h \
@@ -496,7 +496,7 @@ Marlin\src\module/stepper/../../feature/../lcd/../sd/SdFatStructs.h:
 
 Marlin\src\module/stepper/../../feature/../lcd/../feature/pause.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\nozzle.h:
+Marlin\src\module/stepper/../../feature/../lcd/../feature/../libs/nozzle.h:
 
 Marlin\src\module/stepper/../../feature/../lcd/lcdprint.h:
 

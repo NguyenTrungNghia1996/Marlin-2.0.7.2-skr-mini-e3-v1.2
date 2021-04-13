@@ -15,7 +15,7 @@
  Marlin\src\gcode\feature\pause\../../../inc/../HAL/STM32F1/inc/Conditionals_adv.h \
  Marlin\src\gcode\feature\pause\../../../inc/../HAL/HAL.h \
  Marlin\src\gcode\feature\pause\../../../inc/../HAL/./STM32F1/HAL.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\marduino.h \
+ Marlin\src\gcode\feature\pause\../../../inc/../HAL/./STM32F1/../shared/Marduino.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/wirish.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/WString.h \
@@ -66,8 +66,8 @@
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/tone.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r/variant.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\math_32bit.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\hal_spi.h \
+ Marlin\src\gcode\feature\pause\../../../inc/../HAL/./STM32F1/../shared/math_32bit.h \
+ Marlin\src\gcode\feature\pause\../../../inc/../HAL/./STM32F1/../shared/HAL_SPI.h \
  Marlin\src\gcode\feature\pause\../../../inc/../HAL/./STM32F1/fastio.h \
  Marlin\src\gcode\feature\pause\../../../inc/../HAL/./STM32F1/watchdog.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/iwdg.h \
@@ -88,8 +88,8 @@
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMassStorage.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/usb_mass_mal.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMIDI.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\e_parser.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\host_actions.h \
+ Marlin\src\gcode\feature\pause\../../../inc/../HAL/./STM32F1/../../feature/e_parser.h \
+ Marlin\src\gcode\feature\pause\../../../inc/../HAL/./STM32F1/../../feature/host_actions.h \
  Marlin\src\gcode\feature\pause\../../../inc/../HAL/./STM32F1/MarlinSerial.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/usart.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/ring_buffer.h \
@@ -137,7 +137,7 @@
  .pio\libdeps\STM32F103RC_btt_512K_USB\U8glib-HAL\src/clib/u8g.h \
  Marlin\src\gcode\feature\pause\../../../feature/runout.h \
  Marlin\src\gcode\feature\pause\../../../feature/../module/planner.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\gcode\queue.h \
+ Marlin\src\gcode\feature\pause\../../../feature/../module/../gcode/queue.h \
  Marlin\src\gcode\feature\pause\../../../feature/../module/stepper.h \
  Marlin\src\gcode\feature\pause\../../../feature/../module/stepper/indirection.h \
  Marlin\src\gcode\feature\pause\../../../feature/../module/stepper/trinamic.h \
@@ -160,7 +160,7 @@
  .pio\libdeps\STM32F103RC_btt_512K_USB\TMCStepper\src/source/TMC2208_bitfields.h \
  .pio\libdeps\STM32F103RC_btt_512K_USB\TMCStepper\src/source/TMC2209_bitfields.h \
  .pio\libdeps\STM32F103RC_btt_512K_USB\TMCStepper\src/source/TMC2660_bitfields.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\tmc_util.h
+ Marlin\src\gcode\feature\pause\../../../feature/../module/stepper/../../feature/tmc_util.h
 
 Marlin\src\gcode\feature\pause\../../../inc/MarlinConfig.h:
 
@@ -192,7 +192,7 @@ Marlin\src\gcode\feature\pause\../../../inc/../HAL/HAL.h:
 
 Marlin\src\gcode\feature\pause\../../../inc/../HAL/./STM32F1/HAL.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\marduino.h:
+Marlin\src\gcode\feature\pause\../../../inc/../HAL/./STM32F1/../shared/Marduino.h:
 
 C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h:
 
@@ -294,9 +294,9 @@ C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores
 
 C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r/variant.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\math_32bit.h:
+Marlin\src\gcode\feature\pause\../../../inc/../HAL/./STM32F1/../shared/math_32bit.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\hal_spi.h:
+Marlin\src\gcode\feature\pause\../../../inc/../HAL/./STM32F1/../shared/HAL_SPI.h:
 
 Marlin\src\gcode\feature\pause\../../../inc/../HAL/./STM32F1/fastio.h:
 
@@ -338,9 +338,9 @@ C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libra
 
 C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMIDI.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\e_parser.h:
+Marlin\src\gcode\feature\pause\../../../inc/../HAL/./STM32F1/../../feature/e_parser.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\host_actions.h:
+Marlin\src\gcode\feature\pause\../../../inc/../HAL/./STM32F1/../../feature/host_actions.h:
 
 Marlin\src\gcode\feature\pause\../../../inc/../HAL/./STM32F1/MarlinSerial.h:
 
@@ -436,7 +436,7 @@ Marlin\src\gcode\feature\pause\../../../feature/runout.h:
 
 Marlin\src\gcode\feature\pause\../../../feature/../module/planner.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\gcode\queue.h:
+Marlin\src\gcode\feature\pause\../../../feature/../module/../gcode/queue.h:
 
 Marlin\src\gcode\feature\pause\../../../feature/../module/stepper.h:
 
@@ -482,4 +482,4 @@ C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores
 
 .pio\libdeps\STM32F103RC_btt_512K_USB\TMCStepper\src/source/TMC2660_bitfields.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\tmc_util.h:
+Marlin\src\gcode\feature\pause\../../../feature/../module/stepper/../../feature/tmc_util.h:

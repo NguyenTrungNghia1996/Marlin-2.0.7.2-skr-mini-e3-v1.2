@@ -147,8 +147,8 @@
  .pio\libdeps\STM32F103RC_btt_512K_USB\TMCStepper\src/source/TMC2660_bitfields.h \
  Marlin\src\feature\../module/stepper/../../feature/tmc_util.h \
  Marlin\src\feature\../module/stepper/../../feature/../lcd/ultralcd.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\buzzer.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\circularqueue.h \
+ Marlin\src\feature\../module/stepper/../../feature/../lcd/../libs/buzzer.h \
+ Marlin\src\feature\../module/stepper/../../feature/../lcd/../libs/circularqueue.h \
  Marlin\src\feature\../module/stepper/../../feature/../lcd/lcdprint.h \
  Marlin\src\feature\../module/stepper/../../feature/../lcd/fontutils.h \
  Marlin\src\feature\../module/stepper/../../feature/../lcd/dogm/u8g_fontutf8.h \
@@ -459,9 +459,9 @@ Marlin\src\feature\../module/stepper/../../feature/tmc_util.h:
 
 Marlin\src\feature\../module/stepper/../../feature/../lcd/ultralcd.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\buzzer.h:
+Marlin\src\feature\../module/stepper/../../feature/../lcd/../libs/buzzer.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\circularqueue.h:
+Marlin\src\feature\../module/stepper/../../feature/../lcd/../libs/circularqueue.h:
 
 Marlin\src\feature\../module/stepper/../../feature/../lcd/lcdprint.h:
 

@@ -5,17 +5,17 @@
  Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/platforms.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../core/boards.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../core/macros.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\configuration.h \
+ Marlin\src\gcode\feature\powerloss\../../../inc/../../Configuration.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/Version.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/Conditionals_LCD.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/STM32F1/inc/Conditionals_LCD.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../core/drivers.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\configuration_adv.h \
+ Marlin\src\gcode\feature\powerloss\../../../inc/../../Configuration_adv.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/Conditionals_adv.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/STM32F1/inc/Conditionals_adv.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/HAL.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/HAL.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\marduino.h \
+ Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../shared/Marduino.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/wirish.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/WString.h \
@@ -66,8 +66,8 @@
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/tone.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r/variant.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\math_32bit.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\hal_spi.h \
+ Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../shared/math_32bit.h \
+ Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../shared/HAL_SPI.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/fastio.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/watchdog.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/iwdg.h \
@@ -88,8 +88,8 @@
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMassStorage.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/usb_mass_mal.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMIDI.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\e_parser.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\host_actions.h \
+ Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../../feature/e_parser.h \
+ Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../../feature/host_actions.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/MarlinSerial.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/usart.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/ring_buffer.h \
@@ -106,9 +106,9 @@
  Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/STM32F1/inc/SanityCheck.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../core/language.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../core/multi_language.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\lcd\language\language_en.h \
+ Marlin\src\gcode\feature\powerloss\../../../inc/../core/../lcd/language/language_en.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../core/utility.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\core\millis_t.h \
+ Marlin\src\gcode\feature\powerloss\../../../inc/../core/../core/millis_t.h \
  Marlin\src\gcode\feature\powerloss\../../../inc/../core/serial.h \
  Marlin\src\gcode\feature\powerloss\../../gcode.h \
  Marlin\src\gcode\feature\powerloss\../../parser.h \
@@ -127,7 +127,7 @@
  Marlin\src\gcode\feature\powerloss\../../../lcd/../libs/circularqueue.h \
  Marlin\src\gcode\feature\powerloss\../../../lcd/../MarlinCore.h \
  Marlin\src\gcode\feature\powerloss\../../../lcd/../feature/pause.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\nozzle.h \
+ Marlin\src\gcode\feature\powerloss\../../../lcd/../feature/../libs/nozzle.h \
  Marlin\src\gcode\feature\powerloss\../../../lcd/lcdprint.h \
  Marlin\src\gcode\feature\powerloss\../../../lcd/fontutils.h \
  Marlin\src\gcode\feature\powerloss\../../../lcd/dogm/u8g_fontutf8.h \
@@ -145,7 +145,7 @@ Marlin\src\gcode\feature\powerloss\../../../inc/../core/boards.h:
 
 Marlin\src\gcode\feature\powerloss\../../../inc/../core/macros.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\configuration.h:
+Marlin\src\gcode\feature\powerloss\../../../inc/../../Configuration.h:
 
 Marlin\src\gcode\feature\powerloss\../../../inc/Version.h:
 
@@ -155,7 +155,7 @@ Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/STM32F1/inc/Conditionals_
 
 Marlin\src\gcode\feature\powerloss\../../../inc/../core/drivers.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\configuration_adv.h:
+Marlin\src\gcode\feature\powerloss\../../../inc/../../Configuration_adv.h:
 
 Marlin\src\gcode\feature\powerloss\../../../inc/Conditionals_adv.h:
 
@@ -165,7 +165,7 @@ Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/HAL.h:
 
 Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/HAL.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\marduino.h:
+Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../shared/Marduino.h:
 
 C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h:
 
@@ -267,9 +267,9 @@ C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores
 
 C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r/variant.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\math_32bit.h:
+Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../shared/math_32bit.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\hal_spi.h:
+Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../shared/HAL_SPI.h:
 
 Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/fastio.h:
 
@@ -311,9 +311,9 @@ C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libra
 
 C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMIDI.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\e_parser.h:
+Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../../feature/e_parser.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\host_actions.h:
+Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/../../feature/host_actions.h:
 
 Marlin\src\gcode\feature\powerloss\../../../inc/../HAL/./STM32F1/MarlinSerial.h:
 
@@ -347,11 +347,11 @@ Marlin\src\gcode\feature\powerloss\../../../inc/../core/language.h:
 
 Marlin\src\gcode\feature\powerloss\../../../inc/../core/multi_language.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\lcd\language\language_en.h:
+Marlin\src\gcode\feature\powerloss\../../../inc/../core/../lcd/language/language_en.h:
 
 Marlin\src\gcode\feature\powerloss\../../../inc/../core/utility.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\core\millis_t.h:
+Marlin\src\gcode\feature\powerloss\../../../inc/../core/../core/millis_t.h:
 
 Marlin\src\gcode\feature\powerloss\../../../inc/../core/serial.h:
 
@@ -389,7 +389,7 @@ Marlin\src\gcode\feature\powerloss\../../../lcd/../MarlinCore.h:
 
 Marlin\src\gcode\feature\powerloss\../../../lcd/../feature/pause.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\nozzle.h:
+Marlin\src\gcode\feature\powerloss\../../../lcd/../feature/../libs/nozzle.h:
 
 Marlin\src\gcode\feature\powerloss\../../../lcd/lcdprint.h:
 

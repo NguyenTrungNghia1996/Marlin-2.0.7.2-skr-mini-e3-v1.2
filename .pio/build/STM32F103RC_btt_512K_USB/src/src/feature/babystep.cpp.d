@@ -136,18 +136,18 @@
  .pio\libdeps\STM32F103RC_btt_512K_USB\TMCStepper\src/source/TMC2660_bitfields.h \
  Marlin\src\feature\../module/stepper/../../feature/tmc_util.h \
  Marlin\src\feature\../module/stepper/../../feature/../lcd/ultralcd.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\buzzer.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\circularqueue.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\cardreader.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFile.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdBaseFile.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFatConfig.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdVolume.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\Sd2Card.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdInfo.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFatStructs.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\pause.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\nozzle.h \
+ Marlin\src\feature\../module/stepper/../../feature/../lcd/../libs/buzzer.h \
+ Marlin\src\feature\../module/stepper/../../feature/../lcd/../libs/circularqueue.h \
+ Marlin\src\feature\../module/stepper/../../feature/../lcd/../sd/cardreader.h \
+ Marlin\src\feature\../module/stepper/../../feature/../lcd/../sd/SdFile.h \
+ Marlin\src\feature\../module/stepper/../../feature/../lcd/../sd/SdBaseFile.h \
+ Marlin\src\feature\../module/stepper/../../feature/../lcd/../sd/SdFatConfig.h \
+ Marlin\src\feature\../module/stepper/../../feature/../lcd/../sd/SdVolume.h \
+ Marlin\src\feature\../module/stepper/../../feature/../lcd/../sd/Sd2Card.h \
+ Marlin\src\feature\../module/stepper/../../feature/../lcd/../sd/SdInfo.h \
+ Marlin\src\feature\../module/stepper/../../feature/../lcd/../sd/SdFatStructs.h \
+ Marlin\src\feature\../module/stepper/../../feature/../lcd/../feature/pause.h \
+ Marlin\src\feature\../module/stepper/../../feature/../lcd/../feature/../libs/nozzle.h \
  Marlin\src\feature\../module/stepper/../../feature/../lcd/lcdprint.h \
  Marlin\src\feature\../module/stepper/../../feature/../lcd/fontutils.h \
  Marlin\src\feature\../module/stepper/../../feature/../lcd/dogm/u8g_fontutf8.h \
@@ -432,29 +432,29 @@ Marlin\src\feature\../module/stepper/../../feature/tmc_util.h:
 
 Marlin\src\feature\../module/stepper/../../feature/../lcd/ultralcd.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\buzzer.h:
+Marlin\src\feature\../module/stepper/../../feature/../lcd/../libs/buzzer.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\circularqueue.h:
+Marlin\src\feature\../module/stepper/../../feature/../lcd/../libs/circularqueue.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\cardreader.h:
+Marlin\src\feature\../module/stepper/../../feature/../lcd/../sd/cardreader.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFile.h:
+Marlin\src\feature\../module/stepper/../../feature/../lcd/../sd/SdFile.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdBaseFile.h:
+Marlin\src\feature\../module/stepper/../../feature/../lcd/../sd/SdBaseFile.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFatConfig.h:
+Marlin\src\feature\../module/stepper/../../feature/../lcd/../sd/SdFatConfig.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdVolume.h:
+Marlin\src\feature\../module/stepper/../../feature/../lcd/../sd/SdVolume.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\Sd2Card.h:
+Marlin\src\feature\../module/stepper/../../feature/../lcd/../sd/Sd2Card.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdInfo.h:
+Marlin\src\feature\../module/stepper/../../feature/../lcd/../sd/SdInfo.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFatStructs.h:
+Marlin\src\feature\../module/stepper/../../feature/../lcd/../sd/SdFatStructs.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\pause.h:
+Marlin\src\feature\../module/stepper/../../feature/../lcd/../feature/pause.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\nozzle.h:
+Marlin\src\feature\../module/stepper/../../feature/../lcd/../feature/../libs/nozzle.h:
 
 Marlin\src\feature\../module/stepper/../../feature/../lcd/lcdprint.h:
 

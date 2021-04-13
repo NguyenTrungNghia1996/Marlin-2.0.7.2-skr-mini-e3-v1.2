@@ -158,7 +158,7 @@
  .pio\libdeps\STM32F103RC_btt_512K_USB\TMCStepper\src/source/TMC2209_bitfields.h \
  .pio\libdeps\STM32F103RC_btt_512K_USB\TMCStepper\src/source/TMC2660_bitfields.h \
  Marlin\src\lcd\menu\../../module/stepper/../../feature/tmc_util.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\module\planner.h
+ Marlin\src\lcd\menu\../../module/stepper/../../feature/../module/planner.h
 
 Marlin\src\lcd\menu\../../inc/MarlinConfigPre.h:
 
@@ -480,4 +480,4 @@ C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores
 
 Marlin\src\lcd\menu\../../module/stepper/../../feature/tmc_util.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\module\planner.h:
+Marlin\src\lcd\menu\../../module/stepper/../../feature/../module/planner.h:

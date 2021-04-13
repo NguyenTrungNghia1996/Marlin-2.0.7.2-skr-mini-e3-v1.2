@@ -1127,7 +1127,6 @@ typedef void (*u8g_state_cb)(uint8_t msg);
 
 #define U8G_PIN_LIST_LEN 14
 
-
 #define U8G_PIN_DUMMY 254
 #define U8G_PIN_NONE 255
 
@@ -1542,18 +1541,6 @@ void u8g_MicroDelay(void);
 
 /* delay by 10 microseconds */
 void u8g_10MicroDelay(void);
-
-/*===============================================================*/
-/* chessengine.c */
-#define CHESS_KEY_NONE 0
-#define CHESS_KEY_NEXT 1
-#define CHESS_KEY_PREV 2
-#define CHESS_KEY_SELECT 3
-#define CHESS_KEY_BACK 4
-
-void chess_Init(u8g_t *u8g, uint8_t empty_body_color);
-void chess_Draw(void);
-void chess_Step(uint8_t keycode);
 
 /*===============================================================*/
 /* font definitions */

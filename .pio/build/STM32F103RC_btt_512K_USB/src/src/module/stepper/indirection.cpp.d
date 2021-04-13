@@ -88,8 +88,8 @@
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMassStorage.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/usb_mass_mal.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMIDI.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\e_parser.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\host_actions.h \
+ Marlin\src\module\stepper\../../inc/../HAL/./STM32F1/../../feature/e_parser.h \
+ Marlin\src\module\stepper\../../inc/../HAL/./STM32F1/../../feature/host_actions.h \
  Marlin\src\module\stepper\../../inc/../HAL/./STM32F1/MarlinSerial.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/usart.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/ring_buffer.h \
@@ -145,7 +145,7 @@
  Marlin\src\module\stepper\../../feature/../lcd/../sd/SdFatStructs.h \
  Marlin\src\module\stepper\../../feature/../lcd/../MarlinCore.h \
  Marlin\src\module\stepper\../../feature/../lcd/../feature/pause.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\nozzle.h \
+ Marlin\src\module\stepper\../../feature/../lcd/../feature/../libs/nozzle.h \
  Marlin\src\module\stepper\../../feature/../lcd/../module/motion.h \
  Marlin\src\module\stepper\../../feature/../lcd/lcdprint.h \
  Marlin\src\module\stepper\../../feature/../lcd/fontutils.h \
@@ -331,9 +331,9 @@ C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libra
 
 C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMIDI.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\e_parser.h:
+Marlin\src\module\stepper\../../inc/../HAL/./STM32F1/../../feature/e_parser.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\host_actions.h:
+Marlin\src\module\stepper\../../inc/../HAL/./STM32F1/../../feature/host_actions.h:
 
 Marlin\src\module\stepper\../../inc/../HAL/./STM32F1/MarlinSerial.h:
 
@@ -445,7 +445,7 @@ Marlin\src\module\stepper\../../feature/../lcd/../MarlinCore.h:
 
 Marlin\src\module\stepper\../../feature/../lcd/../feature/pause.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\nozzle.h:
+Marlin\src\module\stepper\../../feature/../lcd/../feature/../libs/nozzle.h:
 
 Marlin\src\module\stepper\../../feature/../lcd/../module/motion.h:
 

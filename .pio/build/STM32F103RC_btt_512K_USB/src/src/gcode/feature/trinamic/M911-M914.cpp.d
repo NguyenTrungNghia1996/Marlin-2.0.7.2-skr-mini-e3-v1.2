@@ -5,17 +5,17 @@
  Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/platforms.h \
  Marlin\src\gcode\feature\trinamic\../../../inc/../core/boards.h \
  Marlin\src\gcode\feature\trinamic\../../../inc/../core/macros.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\configuration.h \
+ Marlin\src\gcode\feature\trinamic\../../../inc/../../Configuration.h \
  Marlin\src\gcode\feature\trinamic\../../../inc/Version.h \
  Marlin\src\gcode\feature\trinamic\../../../inc/Conditionals_LCD.h \
  Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/STM32F1/inc/Conditionals_LCD.h \
  Marlin\src\gcode\feature\trinamic\../../../inc/../core/drivers.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\configuration_adv.h \
+ Marlin\src\gcode\feature\trinamic\../../../inc/../../Configuration_adv.h \
  Marlin\src\gcode\feature\trinamic\../../../inc/Conditionals_adv.h \
  Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/STM32F1/inc/Conditionals_adv.h \
  Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/HAL.h \
  Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/./STM32F1/HAL.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\marduino.h \
+ Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/./STM32F1/../shared/Marduino.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/wirish.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/WString.h \
@@ -66,8 +66,8 @@
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/tone.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r/variant.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\math_32bit.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\hal_spi.h \
+ Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/./STM32F1/../shared/math_32bit.h \
+ Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/./STM32F1/../shared/HAL_SPI.h \
  Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/./STM32F1/fastio.h \
  Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/./STM32F1/watchdog.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/iwdg.h \
@@ -88,8 +88,8 @@
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMassStorage.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/usb_mass_mal.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMIDI.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\e_parser.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\host_actions.h \
+ Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/./STM32F1/../../feature/e_parser.h \
+ Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/./STM32F1/../../feature/host_actions.h \
  Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/./STM32F1/MarlinSerial.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/usart.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/ring_buffer.h \
@@ -106,28 +106,28 @@
  Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/STM32F1/inc/SanityCheck.h \
  Marlin\src\gcode\feature\trinamic\../../../inc/../core/language.h \
  Marlin\src\gcode\feature\trinamic\../../../inc/../core/multi_language.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\lcd\language\language_en.h \
+ Marlin\src\gcode\feature\trinamic\../../../inc/../core/../lcd/language/language_en.h \
  Marlin\src\gcode\feature\trinamic\../../../inc/../core/utility.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\core\millis_t.h \
+ Marlin\src\gcode\feature\trinamic\../../../inc/../core/../core/millis_t.h \
  Marlin\src\gcode\feature\trinamic\../../../inc/../core/serial.h \
  Marlin\src\gcode\feature\trinamic\../../gcode.h \
  Marlin\src\gcode\feature\trinamic\../../parser.h \
  Marlin\src\gcode\feature\trinamic\../../../feature/tmc_util.h \
  Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/ultralcd.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\buzzer.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\circularqueue.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\cardreader.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFile.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdBaseFile.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFatConfig.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdVolume.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\Sd2Card.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdInfo.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFatStructs.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\marlincore.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\pause.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\nozzle.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\module\motion.h \
+ Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../libs/buzzer.h \
+ Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../libs/circularqueue.h \
+ Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../sd/cardreader.h \
+ Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../sd/SdFile.h \
+ Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../sd/SdBaseFile.h \
+ Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../sd/SdFatConfig.h \
+ Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../sd/SdVolume.h \
+ Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../sd/Sd2Card.h \
+ Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../sd/SdInfo.h \
+ Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../sd/SdFatStructs.h \
+ Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../MarlinCore.h \
+ Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../feature/pause.h \
+ Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../feature/../libs/nozzle.h \
+ Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../module/motion.h \
  Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/lcdprint.h \
  Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/fontutils.h \
  Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/dogm/u8g_fontutf8.h \
@@ -153,7 +153,7 @@
  .pio\libdeps\STM32F103RC_btt_512K_USB\TMCStepper\src/source/TMC2209_bitfields.h \
  .pio\libdeps\STM32F103RC_btt_512K_USB\TMCStepper\src/source/TMC2660_bitfields.h \
  Marlin\src\gcode\feature\trinamic\../../../feature/../module/planner.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\gcode\queue.h \
+ Marlin\src\gcode\feature\trinamic\../../../feature/../module/../gcode/queue.h \
  Marlin\src\gcode\feature\trinamic\../../../module/stepper/indirection.h \
  Marlin\src\gcode\feature\trinamic\../../../module/stepper/trinamic.h
 
@@ -167,7 +167,7 @@ Marlin\src\gcode\feature\trinamic\../../../inc/../core/boards.h:
 
 Marlin\src\gcode\feature\trinamic\../../../inc/../core/macros.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\configuration.h:
+Marlin\src\gcode\feature\trinamic\../../../inc/../../Configuration.h:
 
 Marlin\src\gcode\feature\trinamic\../../../inc/Version.h:
 
@@ -177,7 +177,7 @@ Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/STM32F1/inc/Conditionals_L
 
 Marlin\src\gcode\feature\trinamic\../../../inc/../core/drivers.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\configuration_adv.h:
+Marlin\src\gcode\feature\trinamic\../../../inc/../../Configuration_adv.h:
 
 Marlin\src\gcode\feature\trinamic\../../../inc/Conditionals_adv.h:
 
@@ -187,7 +187,7 @@ Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/HAL.h:
 
 Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/./STM32F1/HAL.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\marduino.h:
+Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/./STM32F1/../shared/Marduino.h:
 
 C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h:
 
@@ -289,9 +289,9 @@ C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores
 
 C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r/variant.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\math_32bit.h:
+Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/./STM32F1/../shared/math_32bit.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\hal_spi.h:
+Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/./STM32F1/../shared/HAL_SPI.h:
 
 Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/./STM32F1/fastio.h:
 
@@ -333,9 +333,9 @@ C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libra
 
 C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMIDI.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\e_parser.h:
+Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/./STM32F1/../../feature/e_parser.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\host_actions.h:
+Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/./STM32F1/../../feature/host_actions.h:
 
 Marlin\src\gcode\feature\trinamic\../../../inc/../HAL/./STM32F1/MarlinSerial.h:
 
@@ -369,11 +369,11 @@ Marlin\src\gcode\feature\trinamic\../../../inc/../core/language.h:
 
 Marlin\src\gcode\feature\trinamic\../../../inc/../core/multi_language.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\lcd\language\language_en.h:
+Marlin\src\gcode\feature\trinamic\../../../inc/../core/../lcd/language/language_en.h:
 
 Marlin\src\gcode\feature\trinamic\../../../inc/../core/utility.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\core\millis_t.h:
+Marlin\src\gcode\feature\trinamic\../../../inc/../core/../core/millis_t.h:
 
 Marlin\src\gcode\feature\trinamic\../../../inc/../core/serial.h:
 
@@ -385,33 +385,33 @@ Marlin\src\gcode\feature\trinamic\../../../feature/tmc_util.h:
 
 Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/ultralcd.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\buzzer.h:
+Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../libs/buzzer.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\circularqueue.h:
+Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../libs/circularqueue.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\cardreader.h:
+Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../sd/cardreader.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFile.h:
+Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../sd/SdFile.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdBaseFile.h:
+Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../sd/SdBaseFile.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFatConfig.h:
+Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../sd/SdFatConfig.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdVolume.h:
+Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../sd/SdVolume.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\Sd2Card.h:
+Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../sd/Sd2Card.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdInfo.h:
+Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../sd/SdInfo.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFatStructs.h:
+Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../sd/SdFatStructs.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\marlincore.h:
+Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../MarlinCore.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\pause.h:
+Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../feature/pause.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\nozzle.h:
+Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../feature/../libs/nozzle.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\module\motion.h:
+Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/../module/motion.h:
 
 Marlin\src\gcode\feature\trinamic\../../../feature/../lcd/lcdprint.h:
 
@@ -463,7 +463,7 @@ C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores
 
 Marlin\src\gcode\feature\trinamic\../../../feature/../module/planner.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\gcode\queue.h:
+Marlin\src\gcode\feature\trinamic\../../../feature/../module/../gcode/queue.h:
 
 Marlin\src\gcode\feature\trinamic\../../../module/stepper/indirection.h:
 

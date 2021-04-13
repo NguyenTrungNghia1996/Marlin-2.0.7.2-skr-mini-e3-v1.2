@@ -88,8 +88,8 @@
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMassStorage.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/usb_mass_mal.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMIDI.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\e_parser.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\host_actions.h \
+ Marlin\src\gcode\bedlevel\../../inc/../HAL/./STM32F1/../../feature/e_parser.h \
+ Marlin\src\gcode\bedlevel\../../inc/../HAL/./STM32F1/../../feature/host_actions.h \
  Marlin\src\gcode\bedlevel\../../inc/../HAL/./STM32F1/MarlinSerial.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/usart.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/ring_buffer.h \
@@ -121,7 +121,7 @@
  Marlin\src\gcode\bedlevel\../../module/probe.h \
  Marlin\src\gcode\bedlevel\../../module/settings.h \
  Marlin\src\gcode\bedlevel\../../module/../HAL/shared/eeprom_api.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\crc16.h
+ Marlin\src\gcode\bedlevel\../../module/../HAL/shared/../../libs/crc16.h
 
 Marlin\src\gcode\bedlevel\../../inc/MarlinConfig.h:
 
@@ -299,9 +299,9 @@ C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libra
 
 C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMIDI.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\e_parser.h:
+Marlin\src\gcode\bedlevel\../../inc/../HAL/./STM32F1/../../feature/e_parser.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\host_actions.h:
+Marlin\src\gcode\bedlevel\../../inc/../HAL/./STM32F1/../../feature/host_actions.h:
 
 Marlin\src\gcode\bedlevel\../../inc/../HAL/./STM32F1/MarlinSerial.h:
 
@@ -365,4 +365,4 @@ Marlin\src\gcode\bedlevel\../../module/settings.h:
 
 Marlin\src\gcode\bedlevel\../../module/../HAL/shared/eeprom_api.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\crc16.h:
+Marlin\src\gcode\bedlevel\../../module/../HAL/shared/../../libs/crc16.h:

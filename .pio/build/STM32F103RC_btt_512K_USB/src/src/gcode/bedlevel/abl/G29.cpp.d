@@ -15,7 +15,7 @@
  Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/STM32F1/inc/Conditionals_adv.h \
  Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/HAL.h \
  Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/./STM32F1/HAL.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\marduino.h \
+ Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/./STM32F1/../shared/Marduino.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/wirish.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/WString.h \
@@ -66,8 +66,8 @@
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/tone.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r/variant.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\math_32bit.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\hal_spi.h \
+ Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/./STM32F1/../shared/math_32bit.h \
+ Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/./STM32F1/../shared/HAL_SPI.h \
  Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/./STM32F1/fastio.h \
  Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/./STM32F1/watchdog.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/iwdg.h \
@@ -88,8 +88,8 @@
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMassStorage.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/usb_mass_mal.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMIDI.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\e_parser.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\host_actions.h \
+ Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/./STM32F1/../../feature/e_parser.h \
+ Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/./STM32F1/../../feature/host_actions.h \
  Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/./STM32F1/MarlinSerial.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/usart.h \
  C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/ring_buffer.h \
@@ -140,23 +140,23 @@
  .pio\libdeps\STM32F103RC_btt_512K_USB\TMCStepper\src/source/TMC2208_bitfields.h \
  .pio\libdeps\STM32F103RC_btt_512K_USB\TMCStepper\src/source/TMC2209_bitfields.h \
  .pio\libdeps\STM32F103RC_btt_512K_USB\TMCStepper\src/source/TMC2660_bitfields.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\tmc_util.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\lcd\ultralcd.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\buzzer.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\circularqueue.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\cardreader.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFile.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdBaseFile.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFatConfig.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdVolume.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\Sd2Card.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdInfo.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFatStructs.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\pause.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\nozzle.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\lcd\lcdprint.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\lcd\fontutils.h \
- c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\lcd\dogm/u8g_fontutf8.h \
+ Marlin\src\gcode\bedlevel\abl\../../../module/stepper/../../feature/tmc_util.h \
+ Marlin\src\gcode\bedlevel\abl\../../../module/stepper/../../feature/../lcd/ultralcd.h \
+ c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\libs\buzzer.h \
+ c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\libs\circularqueue.h \
+ c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\sd\cardreader.h \
+ c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\sd\SdFile.h \
+ c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\sd\SdBaseFile.h \
+ c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\sd\SdFatConfig.h \
+ c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\sd\SdVolume.h \
+ c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\sd\Sd2Card.h \
+ c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\sd\SdInfo.h \
+ c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\sd\SdFatStructs.h \
+ c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\feature\pause.h \
+ c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\libs\nozzle.h \
+ Marlin\src\gcode\bedlevel\abl\../../../module/stepper/../../feature/../lcd/lcdprint.h \
+ Marlin\src\gcode\bedlevel\abl\../../../module/stepper/../../feature/../lcd/fontutils.h \
+ Marlin\src\gcode\bedlevel\abl\../../../module/stepper/../../feature/../lcd/dogm/u8g_fontutf8.h \
  .pio\libdeps\STM32F103RC_btt_512K_USB\U8glib-HAL\src/U8glib.h \
  .pio\libdeps\STM32F103RC_btt_512K_USB\U8glib-HAL\src/clib/u8g.h \
  Marlin\src\gcode\bedlevel\abl\../../../module/probe.h \
@@ -192,7 +192,7 @@ Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/HAL.h:
 
 Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/./STM32F1/HAL.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\marduino.h:
+Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/./STM32F1/../shared/Marduino.h:
 
 C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h:
 
@@ -294,9 +294,9 @@ C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores
 
 C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r/variant.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\math_32bit.h:
+Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/./STM32F1/../shared/math_32bit.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\hal\shared\hal_spi.h:
+Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/./STM32F1/../shared/HAL_SPI.h:
 
 Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/./STM32F1/fastio.h:
 
@@ -338,9 +338,9 @@ C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libra
 
 C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\libraries\USBComposite/USBMIDI.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\e_parser.h:
+Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/./STM32F1/../../feature/e_parser.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\host_actions.h:
+Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/./STM32F1/../../feature/host_actions.h:
 
 Marlin\src\gcode\bedlevel\abl\../../../inc/../HAL/./STM32F1/MarlinSerial.h:
 
@@ -442,39 +442,39 @@ C:\Users\nghia\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores
 
 .pio\libdeps\STM32F103RC_btt_512K_USB\TMCStepper\src/source/TMC2660_bitfields.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\tmc_util.h:
+Marlin\src\gcode\bedlevel\abl\../../../module/stepper/../../feature/tmc_util.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\lcd\ultralcd.h:
+Marlin\src\gcode\bedlevel\abl\../../../module/stepper/../../feature/../lcd/ultralcd.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\buzzer.h:
+c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\libs\buzzer.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\circularqueue.h:
+c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\libs\circularqueue.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\cardreader.h:
+c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\sd\cardreader.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFile.h:
+c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\sd\SdFile.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdBaseFile.h:
+c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\sd\SdBaseFile.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFatConfig.h:
+c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\sd\SdFatConfig.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdVolume.h:
+c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\sd\SdVolume.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\Sd2Card.h:
+c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\sd\Sd2Card.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdInfo.h:
+c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\sd\SdInfo.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\sd\SdFatStructs.h:
+c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\sd\SdFatStructs.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\feature\pause.h:
+c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\feature\pause.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\libs\nozzle.h:
+c:\users\nghia\desktop\github\marlin-2.0.7.2-skr-mini-e3-v1.2\marlin\src\libs\nozzle.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\lcd\lcdprint.h:
+Marlin\src\gcode\bedlevel\abl\../../../module/stepper/../../feature/../lcd/lcdprint.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\lcd\fontutils.h:
+Marlin\src\gcode\bedlevel\abl\../../../module/stepper/../../feature/../lcd/fontutils.h:
 
-c:\users\nghia\desktop\github\marlin-2.0.72\marlin\src\lcd\dogm/u8g_fontutf8.h:
+Marlin\src\gcode\bedlevel\abl\../../../module/stepper/../../feature/../lcd/dogm/u8g_fontutf8.h:
 
 .pio\libdeps\STM32F103RC_btt_512K_USB\U8glib-HAL\src/U8glib.h:
 
